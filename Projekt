@@ -1,0 +1,3 @@
+Mehrere gleiche Zeichen //... wenn // niedriger in Typylist dann wird Punkt nicht als Point sondern als Punct erkannt wenn Point höher angeodrnet in List => eine Zeichenklasse die alles gleich behandelt auch blank und space
+
+Biginteger nicht nötog wenn nur mit normalen Integer gerechenet und andere langen Zahlennur Zahlenkette benötigt wird
